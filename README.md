@@ -1,13 +1,10 @@
-
 ## Highlight of achievements
 
 * Wrote a complete backend solution for Unity based online casino including accounts managements, payments and analytics system.   
   Java/Kotlin/Python/Mysql/Redis/AWS.
-* Created a full pack of editors/tools for surveillance including customer management portal, and ML for image recognition. 
-  helped to start a company from a startup.   
+* Created a full pack of editors/tools for surveillance including customer management portal, and ML for image recognition. Helped to start a company from a startup.   
   Python/Adobe Air/C/ffmpeg/windows/osx.  
-* Provided a complete solution for dating portal, 
-  including back end, web, mobile applications. Text,video chats, profiles matching. 
+* Provided a complete solution for a dating portal, including back end, web, mobile applications. Text,video chats, profiles matching. 
   Java/Adobe Air/Firebase.
 * Created custom DevOp tools for CD/CI for a small company, who developed e-commerce project.   
   Java/Bash/PostgreSQL.
@@ -19,11 +16,8 @@
 * Java - 6 years
 * Kotlin - 3 years
 * Javascript - 2 years
-* Python - 2 years
 * C - 4 years (mostly native functionality for different projects)
-* Rust < 1 year (tools, Solana programs)
-* SQL(MySQL, PostgreSQL) - 3 years 
-* NoSQL(MongoDb, Redis) - 3 years
+* SQL - 3 years 
 
 ### Frameworks
 * Spring/ Spring Boot - 5 years
@@ -37,15 +31,21 @@
 * Mongodb - 3 years
 
 ### Other technologies
-* AWS (ec2, s3, Kinesis, EKS) - 4 years
+* AWS (ec2, s3, Kinesis, EKS) - 2 years
 * GCP (Cloud Run, GKC, SQL) - 2 years
 * Docker, k8s - 4 years
 * Intellij IDEA, VS Code - 8 years
 
 ## Work Experience / Organisations
 
+### [Fondy](https://fondy.io/en/)
+Senior Java Developer, Full Time [September, 2021 - Now]  
+* Backend for online payment platform, PaaS
+
+Technologies: Spring Boot, Java 11, GCP, Postgresql 
+
 ### [Talent Funnel](https://www.talent-funnel.com/)
-Backend Developer, Full Time [June, 2020 - Now]  
+Full Stack Developer, Full Time [June, 2020 - October, 2021]  
 * ATS for HR agencies
 * Services for external platforms integrations
 * Integration SDKs
@@ -83,11 +83,10 @@ Technologies: Java/JS/Postgresql/Adobe Flex/Air.
 
 ## Area of interests
 * Fintech/Blockchain/Crypto/Games
-* Java/Kotlin/Rust/Python
-* Microservices based and distributed architectures, k8s, high load projects
+* Java/Kotlin/Python/Rust
+* Microservices based and distributed architectures, k8s, high load
 * Blockchain technologies
 * ML, AI
-
 
 ## Education
 * Master Degree. IT, Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 

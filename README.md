@@ -90,8 +90,8 @@ Lead developer [February 2014-October 2016]
 Technologies: Java/JS/Postgresql/Adobe Flex/Air.
 
 ## Area of interests
-* Fintech/Blockchain/Crypto/Games
-* Java/Kotlin/Python/Rust
+* Fintech/Games
+* Java/Kotlin/Javascript/Pythong/Golang
 * Microservices based and distributed architectures, k8s, high load
 * Blockchain technologies
 * ML, AI

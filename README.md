@@ -17,6 +17,7 @@
 * Kotlin - 4 years
 * Javascript - 2 years
 * C - 4 years (mostly native functionality for different projects)
+* Golang - 0.5 years
 * SQL - 3 years 
 
 ### Frameworks

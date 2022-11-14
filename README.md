@@ -91,7 +91,7 @@ Technologies: Java/JS/Postgresql/Adobe Flex/Air.
 
 ## Area of interests
 * Fintech/Games
-* Java/Kotlin/Javascript/Pythong/Golang
+* Java/Kotlin/Javascript/Python/Golang
 * Microservices based and distributed architectures, k8s, high load
 * Blockchain technologies
 * ML, AI

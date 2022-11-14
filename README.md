@@ -14,7 +14,7 @@
 ### Languages and overall experience
 
 * Java - 6 years
-* Kotlin - 3 years
+* Kotlin - 4 years
 * Javascript - 2 years
 * C - 4 years (mostly native functionality for different projects)
 * SQL - 3 years 
@@ -38,11 +38,19 @@
 
 ## Work Experience / Organisations
 
+### [finmid](https://finmid.com/)
+Backend Kotlin Developer, Full Time [March, 2022 - Now]  
+* Backend for credit card product
+* Full stack back office development
+* Public API gateway development
+
+Technologies: Spring Boot, Kotlin, AWS, Postgresql, Kafka, Terraform, Github
+
 ### [Fondy](https://fondy.io/en/)
-Senior Java Developer, Full Time [September, 2021 - Now]  
+Senior Java Developer, Full Time [September, 2021 - March, 2022]  
 * Backend for online payment platform, PaaS
 
-Technologies: Spring Boot, Java 11, GCP, Postgresql 
+Technologies: Spring Boot, Java 11, GCP, Postgresql, PubSub, Bitbucket
 
 ### [Talent Funnel](https://www.talent-funnel.com/)
 Full Stack Developer, Full Time [June, 2020 - October, 2021]  
@@ -50,13 +58,13 @@ Full Stack Developer, Full Time [June, 2020 - October, 2021]
 * Services for external platforms integrations
 * Integration SDKs
 
-Technologies: Spring Boot, Java 13, Kotlin, GCP, MongoDb 
+Technologies: Spring Boot, Java 13, Kotlin, GCP, MongoDb, Bitbucket
 
 ### [Klever Thoughts Inc.](https://www.investigationve.com/)
 Data/AI Engineer, Part Time [January, 2020 - December, 2020]
 * Recommendation systems/image recognition for Surveillance industry.
 
-Technologies: Python/Pandas/scikit-learn.
+Technologies: Python/Pandas/scikit-learn, Bitbucket
 
 Senior software engineer, Full/Part time [October, 2017 - July, 2020]
 * Customers management portal. Create/manage customers/subscriptions/software keys, stripe, paypal integrations.

@@ -1,11 +1,11 @@
 ## Highlight of achievements
 
 * Successfully shipped merchant logos, real-time scoring and different backoffice risk-related improvements as a DRI for fintech credit card product. Kotlin/GitHub/AWS.
-* Implemented QA API from scratch for complex fintech neobank and integrated into existing CI/CD process. Java/Keycloak/Bitbucket/GCP.
+* Implemented QA API from scratch for complex fintech neobank and integrated into existing CI/CD process. Java/Go/Keycloak/Bitbucket/GCP.
 * Wrote a complete backend solution for Unity based online casino including accounts managements, payments and analytics system.   
-  Java/Kotlin/Python/Mysql/Redis/AWS.
+  Java/Kotlin/Go/Python/Mysql/Redis/AWS.
 * Created a full pack of editors/tools for surveillance including customer management portal, and ML for image recognition. Helped to start a company from a startup.   
-  Python/Adobe Air/C/ffmpeg/windows/osx.  
+  Python/Adobe Air/Go/C/ffmpeg/windows/osx.  
 * Provided a complete solution for a dating portal, including back end, web, mobile applications. Text,video chats, profiles matching. 
   Java/Adobe Air/Firebase.
 * Created custom DevOp tools for CD/CI for a small company, who developed e-commerce project.   
@@ -15,17 +15,18 @@
 
 ### Languages and overall experience
 
-* Java - 6 years
+* Java - 7 years
 * Kotlin - 4 years
-* Javascript - 2 years
 * C - 4 years (mostly native functionality for different projects)
-* Golang - 0.5 years
-* SQL - 4 years 
+* Go(Golang) - 2 years
+* Javascript - 2 years
+* SQL - 3 years 
 
-### Frameworks
-* Spring/Spring Boot - 6 years
-* node.js, React.js, GraphQL - 2 years
+### Frameworks/Libraries
+* Spring/ Spring Boot - 5 years
 * JUnit, Mockito, Powermock, mockk.io, Mocha - 5 years 
+* node.js, React.js, GraphQL - 2 years
+* testify, mockify, logrus, go-openapi - 2 years
 
 ### Databases
 * Mysql - 3 years
@@ -42,7 +43,7 @@
 ## Work Experience / Organisations
 
 ### [finmid](https://finmid.com/)
-Backend Kotlin Developer, Full Time [March, 2022 - Now]  
+Backend Kotlin Developer, Full Time [March, 2022 - January, 2023]  
 * Backend for credit card product
 * Full stack back office development
 * Public API gateway development
@@ -64,18 +65,14 @@ Full Stack Developer, Full Time [June, 2020 - October, 2021]
 Technologies: Spring Boot, Java 13, Kotlin, GCP, MongoDb, Bitbucket
 
 ### [Klever Thoughts Inc.](https://www.investigationve.com/)
-Data/AI Engineer, Part Time [January, 2020 - December, 2020]
-* Recommendation systems/image recognition for Surveillance industry.
 
-Technologies: Python/Pandas/scikit-learn, Bitbucket
-
-Senior software engineer, Full/Part time [October, 2017 - July, 2020]
+CTO, Full/Part time [October, 2017 - now]
 * Customers management portal. Create/manage customers/subscriptions/software keys, stripe, paypal integrations.
 * SimpleVideoEd - a video editor for surveillance industry. 
 * USB presenter - a list of tools to create complete USB based presentations.
 * Blur Maker - a video editor to perform different blurring operations on existing video.   
 
-Technologies: Python/Java/Adobe Air/C/Windows/OSX.
+Technologies: Python/Java/Adobe Air/Go/C/Windows/OSX.
 
 ### [Tangelo Games, Israel](https://tangelogames.com/)
 Lead backend developer, Full/Part Time [March, 2016 - July, 2019]
@@ -84,7 +81,7 @@ Lead backend developer, Full/Part Time [March, 2016 - July, 2019]
 * Complete back office solution for payments/ accounts management.
 * Integrated analytics system - a custom solution for logs collection/delivering/processing workflow.  
 
-Technologies: Java/Mysql/Smartfox/Jenkins.
+Technologies: Java/Go/Mysql/Smartfox/Jenkins.
 
 ### [Cristian Filipina](https://www.christianfilipina.com/)
 Lead developer [February 2014-October 2016]
@@ -94,10 +91,10 @@ Technologies: Java/JS/Postgresql/Adobe Flex/Air.
 
 ## Area of interests
 * Fintech/Games
-* Java/Kotlin/Javascript/Python/Golang
+* Go(Golang)/Kotlin/Javascript
 * Microservices based and distributed architectures, k8s, high load
 * Blockchain technologies
-* ML, AI
+
 
 ## Education
 * Master Degree. IT, Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 

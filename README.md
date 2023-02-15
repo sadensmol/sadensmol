@@ -1,6 +1,6 @@
 ## Highlight of achievements
 
-* Successfully shipped merchant logos, real-time scoring and different backoffice risk-related improvements as a DRI for fintech credit card product. Kotlin/GitHub/AWS.
+* Successfully shipped merchant logos, real-time scoring and different backoffice risk-related improvements as a DRI for fintech credit card product. Kotlin/Go/GitHub/AWS.
 * Implemented QA API from scratch for complex fintech neobank and integrated into existing CI/CD process. Java/Go/Keycloak/Bitbucket/GCP.
 * Wrote a complete backend solution for Unity based online casino including accounts managements, payments and analytics system.   
   Java/Kotlin/Go/Python/Mysql/Redis/AWS.
@@ -18,21 +18,21 @@
 * Java - 7 years
 * Kotlin - 4 years
 * C - 4 years (mostly native functionality for different projects)
-* Go(Golang) - 2 years
-* Javascript - 2 years
-* SQL - 3 years 
+* Go(Golang) - 3 years
+* Javascript - 4 years
+* SQL - 7 years 
 
 ### Frameworks/Libraries
 * Spring/ Spring Boot - 5 years
 * JUnit, Mockito, Powermock, mockk.io, Mocha - 5 years 
 * node.js, React.js, GraphQL - 2 years
-* testify, mockify, logrus, go-openapi - 2 years
+* testify, mockify, logrus, go-openapi, xoxo, squirrel, protobuf/grpc - 2-3 years
 
 ### Databases
 * Mysql - 3 years
-* Postgresql -2 years
+* Postgresql - 3 years
 * Redis - 3 years
-* Mongodb - 3 years
+* Mongodb - 2 years
 
 ### Other technologies
 * AWS (ec2, s3, Kinesis, EKS) - 2 years

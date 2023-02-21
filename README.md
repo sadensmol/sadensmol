@@ -16,17 +16,17 @@
 ### Languages and overall experience
 
 * Java - 7 years
+* SQL - 7 years 
 * Kotlin - 4 years
 * C - 4 years (mostly native functionality for different projects)
-* Go(Golang) - 3 years
 * Javascript - 4 years
-* SQL - 7 years 
+* Go(Golang) - 2 years
 
 ### Frameworks/Libraries
 * Spring/ Spring Boot - 5 years
 * JUnit, Mockito, Powermock, mockk.io, Mocha - 5 years 
 * node.js, React.js, GraphQL - 2 years
-* testify, mockify, logrus, go-openapi, xoxo, squirrel, protobuf/grpc - 2-3 years
+* testify, mockify, logrus, go-openapi, xoxo, squirrel, protobuf/grpc - 2 years
 
 ### Databases
 * Mysql - 3 years

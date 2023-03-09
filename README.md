@@ -48,13 +48,13 @@ Backend Kotlin Developer, Full Time [March, 2022 - January, 2023]
 * Full stack back office development
 * Public API gateway development
 
-Technologies: Spring Boot, Kotlin, AWS, Postgresql, Kafka, Terraform, Github
+Technologies: Spring Boot, Kotlin, Go, AWS, Postgresql, Kafka, Terraform, Github
 
 ### [Fondy](https://fondy.io/en/)
 Senior Java Developer, Full Time [September, 2021 - March, 2022]  
 * Backend for online payment platform, PaaS
 
-Technologies: Spring Boot, Java 11, GCP, Postgresql, PubSub, Bitbucket
+Technologies: Spring Boot, Java 11, Go, GCP, Postgresql, PubSub, Bitbucket
 
 ### [Talent Funnel](https://www.talent-funnel.com/)
 Full Stack Developer, Full Time [June, 2020 - October, 2021]  
@@ -62,7 +62,7 @@ Full Stack Developer, Full Time [June, 2020 - October, 2021]
 * Services for external platforms integrations
 * Integration SDKs
 
-Technologies: Spring Boot, Java 13, Kotlin, GCP, MongoDb, Bitbucket
+Technologies: Spring Boot, Java 13, Kotlin, Go, GCP, MongoDb, Bitbucket
 
 ### [Klever Thoughts Inc.](https://www.investigationve.com/)
 
@@ -72,7 +72,7 @@ CTO, Full/Part time [October, 2017 - now]
 * USB presenter - a list of tools to create complete USB based presentations.
 * Blur Maker - a video editor to perform different blurring operations on existing video.   
 
-Technologies: Python/Java/Adobe Air/Go/C/Windows/OSX.
+Technologies: Python, Java, Adobe Air, Go, C, Bitbucket, Windows, OSX.
 
 ### [Tangelo Games, Israel](https://tangelogames.com/)
 Lead backend developer, Full/Part Time [March, 2016 - July, 2019]
@@ -81,18 +81,19 @@ Lead backend developer, Full/Part Time [March, 2016 - July, 2019]
 * Complete back office solution for payments/ accounts management.
 * Integrated analytics system - a custom solution for logs collection/delivering/processing workflow.  
 
-Technologies: Java/Go/Mysql/Smartfox/Jenkins.
+Technologies: Java, Go, Mysql, Smartfox, Jenkins.
 
 ### [Cristian Filipina](https://www.christianfilipina.com/)
 Lead developer [February 2014-October 2016]
 * Backend/Web/Desktop/mobile for dating platform - a complete solution for scratch.   
 
-Technologies: Java/JS/Postgresql/Adobe Flex/Air.
+Technologies: Java, JS, Postgresql, Adobe Air, Adobe Flex.
 
 ## Area of interests
 * Fintech/Games
-* Go(Golang)/Kotlin/Javascript
-* Microservices based and distributed architectures, k8s, high load
+* Go(Golang)/Kotlin/Typescript
+* Microservices based and distributed architectures, docker, k8s, high load
+* Cloud infrastructure GCP, AWS, DO
 * Blockchain technologies
 
 

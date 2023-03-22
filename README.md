@@ -42,6 +42,15 @@
 
 ## Work Experience / Organisations
 
+### [Klever Thoughts Inc.](https://www.investigationve.com/)
+Full Stack Developer, Freelance [October, 2017 - now]
+* Customers management portal. Create/manage customers/subscriptions/software keys, stripe, paypal integrations.
+* SimpleVideoEd - a video editor for surveillance industry. 
+* USB presenter - a list of tools to create complete USB based presentations.
+* Blur Maker - a video editor to perform different blurring operations on existing video.   
+
+Technologies: Python, Java, Adobe Air, Go, C, Bitbucket, Windows, OSX.
+
 ### [finmid](https://finmid.com/)
 Backend Kotlin Developer, Full Time [March, 2022 - January, 2023]  
 * Backend for credit card product
@@ -64,18 +73,8 @@ Full Stack Developer, Full Time [June, 2020 - October, 2021]
 
 Technologies: Spring Boot, Java 13, Kotlin, Go, GCP, MongoDb, Bitbucket
 
-### [Klever Thoughts Inc.](https://www.investigationve.com/)
-
-CTO, Full/Part time [October, 2017 - now]
-* Customers management portal. Create/manage customers/subscriptions/software keys, stripe, paypal integrations.
-* SimpleVideoEd - a video editor for surveillance industry. 
-* USB presenter - a list of tools to create complete USB based presentations.
-* Blur Maker - a video editor to perform different blurring operations on existing video.   
-
-Technologies: Python, Java, Adobe Air, Go, C, Bitbucket, Windows, OSX.
-
 ### [Tangelo Games, Israel](https://tangelogames.com/)
-Lead backend developer, Full/Part Time [March, 2016 - July, 2019]
+Lead backend developer, Full Time [March, 2016 - July, 2019]
 * Best Casino. Support for existing casino gaming platform code and infrastructure. 
 * New Best Casino. Backend for new casino gaming platform. up to 5000 CCU.
 * Complete back office solution for payments/ accounts management.
@@ -84,7 +83,7 @@ Lead backend developer, Full/Part Time [March, 2016 - July, 2019]
 Technologies: Java, Go, Mysql, Smartfox, Jenkins.
 
 ### [Cristian Filipina](https://www.christianfilipina.com/)
-Lead developer [February 2014-October 2016]
+Lead developer Freelance [February 2014-October 2016]
 * Backend/Web/Desktop/mobile for dating platform - a complete solution for scratch.   
 
 Technologies: Java, JS, Postgresql, Adobe Air, Adobe Flex.

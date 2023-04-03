@@ -16,29 +16,30 @@
 ### Languages and overall experience
 
 * Java - 7 years
-* SQL - 7 years 
+* SQL - 6 years 
 * Kotlin - 4 years
 * C - 4 years (mostly native functionality for different projects)
-* Javascript - 4 years
+* Javascript/Typescript - 4 years
 * Go(Golang) - 2 years
 
 ### Frameworks/Libraries
-* Spring/ Spring Boot - 5 years
+* Spring/ Spring Boot,  - 5 years
 * JUnit, Mockito, Powermock, mockk.io, Mocha - 5 years 
-* node.js, React.js, GraphQL - 2 years
+* Hibernate, Spring JPA - 4 years
+* node.js, React.js, GraphQL, Grpc, OpenAPI (swagger), web sockets, jooq - 2 years
 * testify, mockify, logrus, go-openapi, xoxo, squirrel, protobuf/grpc - 2 years
 
 ### Databases
-* Mysql - 3 years
-* Postgresql - 3 years
+* Mysql, Postgresql - 4 years
 * Redis - 3 years
 * Mongodb - 2 years
 
 ### Other technologies
-* AWS (ec2, s3, Kinesis, EKS) - 2 years
-* GCP (Cloud Run, GKC, SQL) - 2 years
-* Docker, k8s - 4 years
 * Intellij IDEA, VS Code - 8 years
+* Docker, k8s - 4 years
+* GCP (Cloud Run, Functions, GKC, SQL, PubSub) - 3 years
+* AWS (ec2, s3, Kinesis, SQS, SNS, EKS, RDS, Lambda) - 3 years
+* Kafka, RabbitMQ - 3 years
 
 ## Work Experience / Organisations
 

@@ -1,5 +1,4 @@
 ## Highlight of achievements
-
 * Successfully shipped merchant logos, real-time scoring and different backoffice risk-related improvements as a DRI for fintech credit card product. Kotlin/Go/GitHub/AWS.
 * Implemented QA API from scratch for complex fintech neobank and integrated into existing CI/CD process. Java/Go/Keycloak/Bitbucket/GCP.
 * Wrote a complete backend solution for Unity based online casino including accounts managements, payments and analytics system.   
@@ -12,12 +11,9 @@
   Java/Bash/PostgreSQL.
 
 ## Skills and Proficiencies
-
 ### Languages and overall experience
-
-* Java - 7 years
+* Java - 7 years, Kotlin - 4 years
 * SQL - 6 years 
-* Kotlin - 4 years
 * C - 4 years (mostly native functionality for different projects)
 * Javascript/Typescript - 4 years
 * Go(Golang) - 2 years
@@ -88,14 +84,16 @@ Lead developer Freelance [February 2014-October 2016]
 * Backend/Web/Desktop/mobile for dating platform - a complete solution for scratch.   
 
 Technologies: Java, JS, Postgresql, Adobe Air, Adobe Flex.
-
-## Area of interests
+## Areas of interests
 * Fintech/Games
-* Go(Golang)/Kotlin/Typescript
+* ML, AI
+* Blockchain technologies
+* Go(Golang)/Kotlin/Java/Typescript
 * Microservices based and distributed architectures, docker, k8s, high load
 * Cloud infrastructure GCP, AWS, DO
-* Blockchain technologies
-
-
+## Languages
+- Russian - native
+- English - B2
+- Georgian, German - beginner (learning right now)
 ## Education
 * Master Degree. IT, Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 

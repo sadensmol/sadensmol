@@ -24,7 +24,7 @@ As an experienced backend software engineer, my goal is to contribute my experti
 - [Playhub](https://playhub.bet/)  
 *iGaming development and consultations*  
 **Back End Developer, Part-time [January, 2023 - now]**  
-I'm working on the core platform, architecture, CI/CD and games logic including high load multiplayer games. 3rd party integrations, payment gateway.
+I'm working on the core platform, architecture, CI/CD and games logic including high load multiplayer games. 3rd party integrations, payment gateway.  
 Technologies: Go, Postgres, Kafka, Websockets, Bitbucket, DO, AWS.
 
 - [Klever Thoughts Inc.](https://www.investigationve.com/)  

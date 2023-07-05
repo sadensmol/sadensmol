@@ -1,3 +1,9 @@
+## Denis Sazonov
+backend software engineer  
+Georgia, Tbilisi  
++995 595 514 532  
+sadensmol@gmail.com  
+
 ## Objective
 As an experienced backend software engineer, my goal is to contribute my expertise to a dynamic and innovative team, and to work on exciting projects that challenge me to continuously grow and learn. With a strong background in fintech, gaming and distributed architectures, I am confident in my ability to design and develop scalable, reliable software solutions that meet and exceed business requirements. I am seeking a role that offers opportunities for professional development, collaboration, and creativity.
 

@@ -29,7 +29,7 @@ Technologies: Go, Postgres, Kafka, Websockets, Git, Bitbucket, DO, AWS.
 
 - [Klever Thoughts Inc.](https://www.investigationve.com/)  
 *Software development and consultation for surveillance industry.*  
-**Full Stack developer, Part-time [October, 2017 - now]**  
+**Full Stack developer, Tech Lead, Full time/Part-time [October, 2017 - December, 2023]**  
 I created a full pack of editors/tools for surveillance industry, including customer management portal, video processing desktop applications and ML for image recognition. Helped to start a company from scratch.     
 Technologies: Python, Java, Adobe Air, Go, C, Git, Bitbucket, Windows, OSX.
 

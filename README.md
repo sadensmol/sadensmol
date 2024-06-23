@@ -13,8 +13,8 @@ As an experienced backend software engineer, my goal is to contribute my experti
 - English - B2
 
 ## Areas of interests
-- Fintech, Games, AI, Blockchain
-- Go(Golang)/Kotlin/Java/Javascript/Typescript
+- Games, Fintech, Telegram, TON Blockchain
+- Go(Golang)/Typescript/Javascript
 - Microservice based and distributed architectures, docker, k8s, high load
 - Cloud infrastructure GCP, AWS, DO
 
